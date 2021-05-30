@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Gerhart", "last": "Wiechmann" },
+      "location": {
+        "street": { "number": 2740, "name": "Kirchplatz" },
+        "city": "Steinburg",
+        "state": "Berlin",
+        "country": "Germany",
+        "postcode": 80492,
+        "coordinates": { "latitude": "-40.0852", "longitude": "-166.1864" },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "gerhart.wiechmann@example.com",
+      "login": {
+        "uuid": "5f948d2c-3ead-44df-8b4f-6c28bef16195",
+        "username": "brownzebra451",
+        "password": "qwertyui",
+        "salt": "l4PZqZ0V",
+        "md5": "8ce7bae07c05cdd65ffa28ac190498cc",
+        "sha1": "b7a22f297f797f8891f6b7aaea232bfaafa010f3",
+        "sha256": "506540146bfb136fa395f11849713834ec037c9031b078cf6345d513b51cf55d"
+      },
+      "dob": { "date": "1985-12-22T23:40:19.710Z", "age": 36 },
+      "registered": { "date": "2004-09-27T02:13:45.048Z", "age": 17 },
+      "phone": "0699-1405318",
+      "cell": "0177-8741667",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/51.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+      },
+      "nat": "DE"
+    }
+  ],
+  "info": {
+    "seed": "513d238cf27c80b9",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
